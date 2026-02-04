@@ -1,0 +1,5 @@
+{
+  "name": "UBX-NAV-PVT Analyzer",
+  "description": "A professional tool to parse, validate, and visualize u-blox UBX-NAV-PVT GNSS hexadecimal data packets.",
+  "requestFramePermissions": []
+}
